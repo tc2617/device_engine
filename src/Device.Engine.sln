@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "", "", "{B48B3765-4D4C-4234-87DB-3D7A0AEB9E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Device.Engine.API", "Device.Engine.API\Device.Engine.API.csproj", "{8FE6E633-DF00-4B1A-B686-CF0C60C27359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE6E633-DF00-4B1A-B686-CF0C60C27359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE6E633-DF00-4B1A-B686-CF0C60C27359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE6E633-DF00-4B1A-B686-CF0C60C27359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE6E633-DF00-4B1A-B686-CF0C60C27359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8FE6E633-DF00-4B1A-B686-CF0C60C27359} = {B48B3765-4D4C-4234-87DB-3D7A0AEB9E19}
+	EndGlobalSection
+EndGlobal
